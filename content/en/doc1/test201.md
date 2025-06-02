@@ -1,0 +1,1 @@
+content inside doc1 folder
